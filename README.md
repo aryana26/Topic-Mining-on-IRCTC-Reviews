@@ -60,7 +60,7 @@ This plot shows how vocabulary terms cluster into semantically coherent regions 
 ---
 
 ### 3. Positive Sentiment Word Cloud
-![Positive Sentiment Word Cloud](images/positive_sentiment_wordcloud.png)  
+![Positive Sentiment Word Cloud](images/positive_senstiment_wordcloud.png)  
 Highlights the most frequent **positively associated terms** in the dataset.
 
 ---
