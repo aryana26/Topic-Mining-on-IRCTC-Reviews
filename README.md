@@ -50,6 +50,7 @@ Topic-Modeling-Sentiment-Project/
 ### 1. Intertopic Distance Map (BERT-LDA)
 Interactive HTML visualization of topic distributions:  
 👉 [Click to view](bert_model_intertopic_dist.html)  
+![PyLDavis View for Intertopic Distance Plot and Words ditribution within each topic](images/pyldavis_lda.png)
 
 ---
 
