@@ -33,7 +33,7 @@ The project explores multiple approaches to extract latent themes from large tex
 
 ```
 Topic-Modeling-Sentiment-Project/
-│── DM_Clean.ipynb # Data cleaning, preprocessing, exploratory analysis
+│── DM_Clean.ipynb # Data cleaning, preprocessing, exploratory analysis and modelling all techniques in sequential manner
 │── bert_model_intertopic_dist.html # Interactive intertopic distance map (BERT-based LDA)
 │── count_lda_approach_1.html # LDA with Count Vectorizer
 │── tf_lda_approach_1.html # LDA with TF-IDF
