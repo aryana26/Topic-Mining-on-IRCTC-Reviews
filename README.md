@@ -16,7 +16,8 @@ The project explores multiple approaches to extract latent themes from large tex
 2. **Topic Modeling**  
    - **Count Vectorizer + LDA** (`count_lda_approach_1.html`)  
    - **TF-IDF Vectorizer + LDA** (`tf_lda_approach_1.html`)  
-   - **BERT-based embeddings** with topic distribution visualization (`bert_model_intertopic_dist.html`)  
+   - **BERT-based embeddings** with topic distribution visualization(`bert_model_intertopic_dist.html`)
+   - final modelling using UMAP on bert embeddings and HDBSCAN Clustering to arrive at final topic model. (plots in `DM_Clean.ipynb`)
 
 3. **Dimensionality Reduction & Visualization**  
    - **t-SNE projection** of the vocabulary and topic clusters for interactive exploration.  
@@ -70,7 +71,8 @@ Highlights the most frequent **positively associated terms** in the dataset.
 
 - **LDA with Count Vectorizer**
 - **LDA with TF-IDF Vectorizer**
-- **BERT embeddings + LDA**
+- **BERT embeddings + K-Means**
+- **UMAP on BERT embeddings with HDBSCAN Clustering**
 - **t-SNE dimensionality reduction**
 - **Sentiment word cloud generation**
 
